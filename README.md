@@ -30,7 +30,7 @@ def gcd():
 ```
 
 ## Output:
-![gcd of two number](harsha.png)![harsha](https://user-images.githubusercontent.com/93427208/146706712-f648a37d-f06a-49c8-a2ab-6aef0106f688.png)
+![harsha](https://user-images.githubusercontent.com/93427208/146706712-f648a37d-f06a-49c8-a2ab-6aef0106f688.png)
 
 
 
